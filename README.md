@@ -1,18 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Jaejae 🤩
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejaejae&layout=compact)
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leesengjie)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejaejae&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Skills 📑
+![react](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 
-<!--
-**leejaejae/leejaejae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools ⚒️
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
