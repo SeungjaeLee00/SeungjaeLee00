@@ -1,7 +1,4 @@
 # Hi there, I'm Jaejae 🤩
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungjaeLee00&layout=compact&theme=nord&hide_border=true)
-
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leesengjie)
 
 ## Skills 📑
