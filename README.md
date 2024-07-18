@@ -1,6 +1,6 @@
 # Hi there, I'm Jaejae 🤩
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungjaeLee00&layout=compact)
-<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeungjaeLee00&layout=compact&theme=nord&hide_border=true" /></a> 
+
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=SeungjaeLee00&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungjaeLee00&layout=compact&theme=nord&hide_border=true))
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leesengjie)
 
